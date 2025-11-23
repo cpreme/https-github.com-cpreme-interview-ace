@@ -1,0 +1,7 @@
+{
+  "name": "JobPrep AI",
+  "description": "An AI-powered job interview preparation platform. Analyze your resume against job descriptions, receive gap analysis, and practice with a mock AI interviewer.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
